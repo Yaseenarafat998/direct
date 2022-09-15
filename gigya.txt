@@ -1,4 +1,4 @@
-Gigya document
+Gigya document(SAP Customer Data cloud)
 
 Partner id - The partner ID is your official account number. You'll need this when communicating your account manager or your implementation consultant.
 Secret key - The secret key is shared between your sites and your applications and the console.
